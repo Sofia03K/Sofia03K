@@ -2,7 +2,7 @@
 
 # Hi, my name is Sofia ✨✨✨
 
-### I'm currentlt learning
+### I'm currently learning
 → git <br>
 → front-end development tools <br>
 → web design
